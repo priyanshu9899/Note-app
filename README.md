@@ -1,1 +1,1 @@
-note taking app made with express.js and ejs.
+note taking app made with express.js and ejs!
